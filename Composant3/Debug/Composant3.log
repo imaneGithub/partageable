@@ -1,0 +1,9 @@
+﻿La génération a démarré 22/01/2016 16:37:52.
+     1>Projet "C:\Users\regrim15\Documents\GitHub\Composant\partageable\Composant3\Composant3.vcxproj" sur le nœud 2 (build cible(s)).
+       Le fichier projet contient ToolsVersion="14.0". Cet ensemble d'outils est inconnu ou manquant (vous pouvez résoudre ce problème en installant la version appropriée de MSBuild), ou la build a peut-être été forcée d'utiliser un ToolsVersion particulier pour des raisons de stratégie. Projet traité comme si ToolsVersion="4.0". Pour plus d'informations, consultez http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(518,5): error MSB8008: L'ensemble d'outils de plateforme (v140) n'est pas installé ou n'est pas valide. Vérifiez qu'une valeur PlatformToolset prise en charge est sélectionnée.
+     1>Génération du projet "C:\Users\regrim15\Documents\GitHub\Composant\partageable\Composant3\Composant3.vcxproj" terminée (build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:01.02
