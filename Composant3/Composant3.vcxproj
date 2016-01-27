@@ -61,7 +61,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\interfaces\Composant3.h" />
+    <ClInclude Include="Composant3.h" />
     <ClInclude Include="Composant3Version.h" />
   </ItemGroup>
   <ItemGroup>
